@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+p{
+    background-color: lightcoral;
+    font-family: Verdana, "DejeVu Sans", sans-serif;
+}
+
+.alert-two{
+    color: blue;
+    font-size: 36px;
+}
+
+.alert-three{
+    font-size: 24px;
+}
+
+.alert-four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
